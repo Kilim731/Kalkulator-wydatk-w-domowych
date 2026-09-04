@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qoCmpxmF7w0=",
+  "success": true,
+  "projectFilePath": "/home/kamil/Dokumenty/Uczelnia/PProgramowiania/Projekt koncowy/Projekt koncowy.csproj",
+  "expectedPackageFiles": [
+    "/home/kamil/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.8/microsoft.aspnetcore.app.ref.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
